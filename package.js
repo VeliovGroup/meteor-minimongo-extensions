@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ostrio:minimongo-extensions',
   version: '1.0.0',
-  summary: 'Some useful mongo extensions for Meteor',
+  summary: 'Useful mongo extensions for Meteor',
   git: 'https://github.com/VeliovGroup/meteor-minimongo-extensions.git',
   documentation: 'README.md'
 });
